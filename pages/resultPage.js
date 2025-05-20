@@ -13,7 +13,7 @@ exports.ResultsPage = class ResultsPage {
         //Init page
         this.page = page;
 
-        this.playlistlink = page.getByRole('link',{name: 'postman by testers talk'});
+        this.playlistlink = page.getByRole('link',{name: 'playwright by testers talk'});
     }
 
 
