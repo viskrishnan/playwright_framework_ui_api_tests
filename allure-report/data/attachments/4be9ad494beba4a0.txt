@@ -1,0 +1,13 @@
+Success: {
+  bookingid: 12,
+  booking: {
+    firstname: 'testers talk playwright',
+    lastname: 'testers talk api testing',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2024-01-01', checkout: '2024-02-01' },
+    additionalneeds: 'super bowls'
+  }
+}
+Status: 500
+Raw response body: Internal Server Error
